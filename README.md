@@ -2,7 +2,7 @@
 
 A button-controlled 4-bit binary counter implemented on an Arduino Uno and simulated in Tinkercad Circuits. The current count is shown in binary and decimal on a 16x2 character LCD.
 
-**[Run the simulation in Tinkercad]((https://www.tinkercad.com/things/gSIbkgwo7IL/editel?sharecode=B9j7xKKM1FGgJW8tOxxviY5YCJSFiaY627Kx7jKl7VY))**
+**[Run the simulation in Tinkercad](https://www.tinkercad.com/things/gSIbkgwo7IL/editel?sharecode=B9j7xKKM1FGgJW8tOxxviY5YCJSFiaY627Kx7jKl7VY)**
 
 ---
 
